@@ -1,0 +1,5 @@
+distance,dimensions,isFragile,serviceLoad,expectedCalculatedShippingCost
+9,LARGE,false,INCREASED,400
+3,LARGE,false,HIGH,420
+1000,SMALL,false,VERY_HIGH,640
+31,LARGE,false,HIGH,700
