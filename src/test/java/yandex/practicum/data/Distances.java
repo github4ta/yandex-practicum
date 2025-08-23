@@ -1,4 +1,4 @@
-package yandex.practicum;
+package yandex.practicum.data;
 
 public class Distances {
 

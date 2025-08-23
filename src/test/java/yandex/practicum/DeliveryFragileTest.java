@@ -2,6 +2,7 @@ package yandex.practicum;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import yandex.practicum.data.Distances;
 import yandex.practicum.enums.Dimensions;
 import yandex.practicum.enums.ServiceLoad;
 import yandex.practicum.exceptions.CargoDeliveryException;
