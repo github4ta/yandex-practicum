@@ -22,6 +22,10 @@ public class Delivery {
     private final static double COEFFICIENT_SERVICE_INCREASED = 1.2;
     private final static double COEFFICIENT_SERVICE_OTHER = 1.0;
 
+    private Delivery() {
+
+    }
+
     public static int calculateShippingCost(int distance, Dimensions dimensions, boolean isFragile, ServiceLoad serviceLoad) throws FragileCargoDeliveryException, CargoDeliveryException {
         int shippingCost = 0;
 
